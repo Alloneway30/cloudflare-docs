@@ -1,5 +1,7 @@
 # Cloudflare Docs
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/e033b0fe2e994eb1a2599ab4d3437284)](https://app.codacy.com/gh/Alloneway30/cloudflare-docs?utm_source=github.com&utm_medium=referral&utm_content=Alloneway30/cloudflare-docs&utm_campaign=Badge_Grade)
+
 **[View the docs →](https://developers.cloudflare.com/)**
 
 ## Why Cloudflare Docs is open source
