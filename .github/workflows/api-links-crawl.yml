@@ -1,4 +1,4 @@
-name: Crawl API docs links
+name: Crawl API docs link url
 
 # **What it does**: Regularly audits API links in our documentation.
 # **Why we have it**: It's too burdensome to check on every commit like we do for internal links.
